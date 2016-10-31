@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?> <banks> <bank id="1"> <name>Barclays Bank</name> <headquarter>London</headquarter> </bank> <bank id="2"> <name>Goldman Sachs</name> <headquarter>NewYork</headquarter> </bank> <bank id="3"> <name>ICBC</name> <headquarter>Beijing</headquarter> </bank> </banks>
